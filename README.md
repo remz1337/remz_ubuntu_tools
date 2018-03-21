@@ -1,2 +1,2 @@
 # remz_ubuntu_tools
-Ubuntu Server Tools
+Various tools for managing Ubuntu Server 16.04 LTS
